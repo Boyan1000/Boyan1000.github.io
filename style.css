@@ -1,0 +1,81 @@
+
+.card {
+
+transition: all   1s;
+display: inline-block;
+
+}
+
+.card:hover {
+
+box-shadow: 10px 10px 10px;}
+
+
+.h5 {
+
+color: black;
+
+}
+
+
+.h5:hover {
+
+color: crimson;
+text-shadow: 10px 10px 80px;}
+
+
+#carouselExampleControls {
+    width: 50%;
+    margin: 0 auto
+}
+
+body {
+background: rgb(214, 224, 245);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
